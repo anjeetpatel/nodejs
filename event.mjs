@@ -1,5 +1,5 @@
-import EventEmitter from "events";
-// const myEmitter = require("events");
+// import EventEmitter from "events";
+const myEmitter = require('events');
 
 const myEmitter= new EventEmitter();
 myEmitter.on('firstevent',(arg1, arg2) => {
