@@ -102,4 +102,3 @@
 //     clearInterval(intervalId);
 //     console.log("stops repeating.");
 // },5000);
-
